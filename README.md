@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkolIvanCollins
 - 👀 I’m interested in Computers, Enginneering, Astronomy and Art
-- 🌱 I’m currently learning HTML,CSS and JAVA
+- 🌱 I’m currently learning HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on making an Artifical Intelligence project
 - 📫 How to reach me twitter @akolivancollins
 
